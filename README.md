@@ -1,2 +1,3 @@
 # pokedex_dio
- Projeto criado a partir da Formação JavaScript da DIO
+ Projeto desenvolvido no curso de Formação JavaScript da DIO
+ 
