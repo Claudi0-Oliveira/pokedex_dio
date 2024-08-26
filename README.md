@@ -14,7 +14,7 @@ Este projeto é uma Pokedex desenvolvida como parte da formação em JavaScript 
 - **HTML** para estruturação da página.
 - **CSS** para estilização da aplicação.
 - **JavaScript** para a lógica de consumo da API e manipulação do DOM.
-- **Poke-API** [Poke-API](https://pokeapi.co/) para obtenção de dados dos Pokémon.
+- **Poke-API** [Poke-API](https://pokeapi.co/) para obtenção de dados dos Pokémons.
 
 ## Funcionalidades
 
